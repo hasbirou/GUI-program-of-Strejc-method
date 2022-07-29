@@ -1,1 +1,0 @@
-# GUI-program-of-Strejc-method
